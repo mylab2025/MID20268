@@ -7,13 +7,18 @@
         "MF": "Infineon"
       },
       "MID": "MID20268",
-      "MD": "TS4141 or BTS4141N is Smart High-Side Power Switch with operating voltage of 12V to 45V & On-state Resistance of 200mR. || Design Ref: U40",
-      "MT": "Electronic Comp.",
+      "MD": "TS4141 or BTS4141N is Smart High-Side Power Switch with operating voltage of 12V to 45V \u0026 On-state Resistance of 200mR. || Design Ref: U40",
+      "MT": "Electronic Material",
       "MQNT": 10,
-      "MQATG": "#CLASS1",
+      "MQATG": "#CLASS_1",
       "ML": "102",
       "MCost": 10,
       "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20268%2Fmain%2FInfineon-BTS4141N-DS-v01_01-EN.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
       "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20268%2Fmain%2F51437977D02_en_E.1_51437977d02_en_e.1_51437977d02.pdf",
       "MaterialImages": [
         "https://raw.githubusercontent.com/mylab2025/MID20268/main/WhatsApp Image 2025-04-05 at 2.29.27 PM.jpeg"
